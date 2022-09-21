@@ -11,3 +11,4 @@ https://github.com/Teja2302/DBMS-CSA0516-/blob/main/inter%20into.png,
 https://github.com/Teja2302/DBMS-CSA0516-/blob/main/alter.jpeg
 
 ## EXPREMENT 2
+https://github.com/Teja2302/DBMS-CSA0516-/blob/main/primary%20key.jpeg
