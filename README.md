@@ -17,3 +17,4 @@ https://github.com/Teja2302/DBMS-CSA0516-/blob/main/primary%20key.jpeg
 https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP%203.txt
 
 ## EXPREMENT 4
+https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP%204.txt
