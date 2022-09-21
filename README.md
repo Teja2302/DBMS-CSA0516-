@@ -1,3 +1,6 @@
 # DBMS-CSA0516
 192110191(t.teja)
-ESPREMENT 5
+EXPREMENT 5
+https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP5.txt
+
+EXPREMENT 6 
