@@ -7,4 +7,7 @@ https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP6.txt
 
 ## EXPREMENT 1
 https://github.com/Teja2302/DBMS-CSA0516-/blob/main/Screenshot%20(22).png
-https://github.com/Teja2302/DBMS-CSA0516-/blob/main/inter%20into.png
+https://github.com/Teja2302/DBMS-CSA0516-/blob/main/inter%20into.png,
+https://github.com/Teja2302/DBMS-CSA0516-/blob/main/alter.jpeg
+
+## EXPREMENT 2
