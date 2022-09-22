@@ -26,5 +26,6 @@ https://github.com/Teja2302/DBMS-CSA0516-/blob/main/exp7.txt
 https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP8.txt
 
 ## EXPREMENT 9
+https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP9.txt
 
 
