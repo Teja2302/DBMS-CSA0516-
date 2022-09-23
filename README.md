@@ -53,5 +53,5 @@ https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP%2023%20(General%20Hospit
 https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP24.txt
 
 ## EXPREMENT 25
-
+https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP25.txt
 
