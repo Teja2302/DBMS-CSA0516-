@@ -50,7 +50,7 @@ https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP22.txt
 https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP%2023%20(General%20Hospital)
 
 ## EXPREMENT 24
-
+https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP24.txt
 
 ## EXPREMENT 25
 
