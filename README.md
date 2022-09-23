@@ -38,7 +38,7 @@ https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP12.txt
 https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP13.txt
 
 ## EXPREMENT 17
-
+https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP17.txt
 
 ## EXPREMENT 19
 https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP19.txt
