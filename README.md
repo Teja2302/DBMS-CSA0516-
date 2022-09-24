@@ -40,6 +40,12 @@ https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP12.txt
 ## EXPREMENT 13
 https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP13.txt
 
+## EXPREMENT 14
+https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP%2014%20(DCL%20COMMANDS)
+
+## EXPREMENT 15
+
+
 ## EXPREMENT 17
 https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP17.txt
 
