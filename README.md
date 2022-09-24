@@ -50,7 +50,7 @@ https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP15(procedures)
 https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP17.txt
 
 ## EXPREMENT 18
-
+https://github.com/Teja2302/DBMS-CSA0516-/blob/main/grant%20and%20revoke.txt
 
 ## EXPREMENT 19
 https://github.com/Teja2302/DBMS-CSA0516-/blob/main/EXP19.txt
